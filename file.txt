@@ -1,2 +1,5 @@
 test text
+# <<<<<<< HEAD
 neues data
+new data
+>>>>>>> test
